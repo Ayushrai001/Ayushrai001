@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Dev
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React Project
-- 📫 How to reach me  ayushrai965@gmail.com
+- 📫 How to reach me raiaysh021@gmail.com
 
 <!---
 Ayushrai001/Ayushrai001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
