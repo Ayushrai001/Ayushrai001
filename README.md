@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush Rai
-- 👀 I’m interested in App Dev
+- 👀 I’m interested in App Dev & Web dev
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React Project
 - 📫 How to reach me raiaysh021@gmail.com
