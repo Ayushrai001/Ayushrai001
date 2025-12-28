@@ -1,5 +1,5 @@
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii+there;Welcome+to+My+GitHub)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&pause=1000&center=true&vCenter=true&random=true&width=320&lines=Hii+there;Welcome+to+My+GitHub)](https://git.io/typing-svg)
+
 💫 About Me:
 🔭 I’m currently working on<br><br>Building scalable DevOps pipelines with Jenkins, Docker, Kubernetes, and AWS — focusing on automation, CI/CD, and cloud infrastructure optimization.<br><br>👯 I’m looking to collaborate on<br><br>Open-source DevOps projects, cloud architecture workflows, infrastructure automation, and real-world SaaS or microservices platforms.<br><br>🤝 I’m looking for help with<br><br>Improving Kubernetes deployment strategies, production-grade monitoring/logging, and optimizing container orchestration for large-scale systems.<br><br>🌱 I’m currently learning<br><br>Advanced Kubernetes networking, Terraform for IaC, GitHub Actions, Cloud Security best practices, and high-availability architecture on AWS.<br><br>💬 Ask me about<br><br>DevOps | AWS | CI/CD | Docker | Kubernetes | Linux | Git | Cloud Automation | Infrastructure Monitoring | Jenkins | Python Deployment<br><br>⚡ Fun fact<br><br>I love breaking things in staging so they never break in production 😄
 
